@@ -1,0 +1,13 @@
+# ninja log v5
+1	681	7298430256283164	CMakeFiles/HeapDesign.dir/binheap.cpp.obj	75971f6905e5b40b
+0	562	7297379890893730	CMakeFiles/HeapDesign.dir/quicksort.cpp.obj	43bc40974483d763
+1	1003	7298912915884514	CMakeFiles/HeapDesign.dir/main.cpp.obj	78e07d27eaa35187
+14	539	7298913189753692	CMakeFiles/SortTest.dir/quicksort.cpp.obj	32ad33ce9ba245fa
+7	662	7298913191097437	CMakeFiles/SortTest.dir/sorttester.cpp.obj	bb85700db20c3dc2
+681	887	7298430257988398	HeapDesign.exe	d8afbcca6259f906
+7	1010	7298912915945562	CMakeFiles/HeapDesign.dir/sorttester.cpp.obj	7ca604d1d492ba78
+1	610	7298913190557475	CMakeFiles/SortTest.dir/binheap.cpp.obj	9bb980c5861030e4
+664	1293	7298913197291686	SortTest.exe	edd9182b072d67dc
+0	972	7298916020896946	CMakeFiles/HeapTester.dir/binheap.cpp.obj	ca0b804e453544a9
+7	974	7298916020916919	CMakeFiles/HeapTester.dir/heaptester.cpp.obj	4db0dbe87ea0df59
+975	1519	7298916026281171	HeapTester.exe	f855a53138089851

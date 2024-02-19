@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HeapDesign",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HeapDesign::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HeapDesign-Debug-d6ff8b89dae693e66222.json",
+					"name" : "HeapDesign",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HeapTester::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HeapTester-Debug-154f63d26e119a465dd2.json",
+					"name" : "HeapTester",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SortTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SortTest-Debug-905481b80ba01ba67fc2.json",
+					"name" : "SortTest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/markh/OneDrive/Desktop/software analysis/HeapDesign/cmake-build-debug",
+		"source" : "C:/Users/markh/OneDrive/Desktop/software analysis/HeapDesign"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
